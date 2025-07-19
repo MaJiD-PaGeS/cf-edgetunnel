@@ -1,8 +1,6 @@
-
 import { connect } from 'cloudflare:sockets';
-
-let userID = 'd42918f9-5dae-4245-a2fe-9eddf552f77e';
-let proxyIP = 'SUBAPI.cmliussss.net';
+let userID = '';
+let proxyIP = '';
 let DNS64Server = '';
 //let sub = '';
 let subConverter = atob('U1VCQVBJLkNNTGl1c3Nzcy5uZXQ=');
